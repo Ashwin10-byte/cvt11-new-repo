@@ -1,4 +1,4 @@
-i want to test git push
-new line for testing
-adding a new line from git bash
-new line to test rebase
+<<<<<<< HEAD
+=======
+i want to ask some questions and want to provide answers
+>>>>>>> d813fda (added answers)
